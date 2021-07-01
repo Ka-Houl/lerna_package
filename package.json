@@ -1,7 +1,8 @@
 {
   "name": "root",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "license": "ISC"
 }
