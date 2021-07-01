@@ -1,6 +1,6 @@
 {
   "name": "kh-lerna-pkg1",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.4",
   "description": "test",
   "author": "Ka-Houl <646676256@qq.com>",
   "homepage": "https://github.com/Ka-Houl/lerna_package#readme",
